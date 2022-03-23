@@ -19,7 +19,7 @@ function Footer() {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://github.com/jyazdan"
+            href="https://www.linkedin.com/in/jonathan-yazdanpanah"
           >
             <FaLinkedin className="h-5 mr-1 ml-2 text-black cursor-pointer" />
           </a>
